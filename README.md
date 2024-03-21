@@ -10,4 +10,4 @@ If you have not set up the environment as part of this earlier exercise, you wil
 
 Once you have downloaded the repository, navigate to the environment directory in your Ananconda prompt and type :
 
-conda env create -f environment.yml****
+conda env create -f environment.yml
